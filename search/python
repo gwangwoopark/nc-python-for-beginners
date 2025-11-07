@@ -12,6 +12,7 @@
 <body>
   <main class="container">
     <h1>Search Results for python</h1>
+    <p><a href="../">← Back to Home</a></p>
     <figure>
       <table role="grid">
         <thead>
