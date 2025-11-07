@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Job Scrapper</title>
+  <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+>
+</head>
+<body>
+  <main class="container">
+    <h1>Search Results for python</h1>
+    <figure>
+      <table role="grid">
+        <thead>
+          <tr>
+            <th>Title</th>
+            <th>Company</th>
+            <th>Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          
+            <tr>
+              <td><a href="https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/">Senior Fullstack Developer (Typescript / Javascript / Node.js)</a></td>
+              <td>DATATRONiQ</td>
+              <td>🚀 DATATRONiQ is a deep-tech 💪 startup for the Industrial IoT in Germany. Our platform offers a one-stop solution for manufacturing companies to monitor and optimize their machines and processes. Our device management and data acquisition technology generates high-quality data for our AI models deployed on the edge. We value collaboration, honest feedback, and continuous...</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://berlinstartupjobs.com/engineering/senior-data-scientist-datatroniq/">Senior Data Scientist</a></td>
+              <td>DATATRONiQ</td>
+              <td>🚀 DATATRONiQ is a deep-tech 💪 startup in Germany, driving the future of Industrial IoT and Edge AI. Our platform provides a one-stop solution for companies to monitor, analyze, and optimize their assets and processes. Through advanced machine learning and real-time analytics, we transform high-quality industrial data into meaningful insights that drive smarter decisions. We...</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/">Senior Go Backend Developer</a></td>
+              <td>DATATRONiQ</td>
+              <td>🚀 DATATRONiQ is a deep-tech 💪 startup for the Industrial IoT in Germany. Our platform offers a one-stop solution for manufacturing companies to monitor and optimize their machines and processes. Our device management and data acquisition technology generates high-quality data for our AI models deployed on the edge. We value collaboration, honest feedback, and continuous...</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://berlinstartupjobs.com/engineering/it-developer-greenautarky-gmbh/">IT Developer</a></td>
+              <td>GreenAutarky</td>
+              <td>We are a Berlin company with international employees working on decentral collaborative AI services in real estate. We change how people live and work, by making buildings think and act adaptive to occupant needs. It is not another App. We save highest possible energy and run AI in compliance with GDPR. We look for developers...</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://berlinstartupjobs.com/engineering/backend-engineer-equimatch-gmbh/">Backend Engineer</a></td>
+              <td>EquiMatch</td>
+              <td>Company Description EquiMatch simplifies mergers and acquisitions (M&amp;A) origination using AI-driven research and personalized outreach. We use AI to create a qualified target list for buyers and M&amp;A advisors, eliminating the need for in-house analysts with no upfront costs – you only pay for successful deals. For sellers, we adopt a respectful, personalized approach aligned...</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://berlinstartupjobs.com/engineering/senior-software-engineer-secure-ai-infrastructure-edgeless-systems/">Senior Software Engineer – Secure AI Infrastructure</a></td>
+              <td>Edgeless Systems</td>
+              <td>We are a fast-growing venture-backed cybersecurity startup. Join us in developing the next generation of secure AI and cloud software, explore cutting-edge technologies like confidential computing, and grow in and alongside a world-class team Our product Privatemode AI is our secure alternative to ChatGPT. It enables AI workflows with sensitive data by keeping all data...</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://berlinstartupjobs.com/engineering/senior-product-engineer-gaia-law/">Senior Product Engineer</a></td>
+              <td>GAIA</td>
+              <td>About GAIA GAIA is revolutionising the legal industry with AI that automates legal work and empowers legal professionals to work more efficiently and effectively. We’re building the future of legal technology, and we are looking for a driven, versatile person to help accelerate our growth. The Role As we scale, we’re looking for an exceptional...</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://berlinstartupjobs.com/engineering/lead-engineer-ai-logistics-nexdash/">Lead Engineer – AI &amp; Logistics</a></td>
+              <td>NexDash</td>
+              <td>NexDash is building Europe’s first Neo-Carrier: electrified, AI-orchestrated, and soon autonomous. 🚛⚡ At the heart of our vision is NexOS — a next-gen orchestration platform that powers fleet electrification, route optimization, charging, and eventually autonomous logistics. We’re looking for a Lead Engineer to build NexOS from scratch. You’ll be the first dedicated engineer, working directly...</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://berlinstartupjobs.com/engineering/backend-ai-engineer-ui-ux-engineer-deep-film-inc/">Backend/AI Engineer &amp; UI/UX Engineer</a></td>
+              <td>Deep Film Inc.</td>
+              <td>Backend/AI Engineer &amp; UI/UX Engineer You’re here to reshape the film industry with AI. At Deep Film Inc., you’ll transform multimodal diffusion and transformer models into production-ready systems, mastering quantization and pruning to make them leaner and faster. Your CI/CD pipelines and MLflow integrations won’t just keep us running, they’ll redefine storytelling. You’ll scale training...</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://berlinstartupjobs.com/engineering/founding-backend-platform-engineer-remote-mobileboost/">Founding Backend/Platform Engineer (Remote)</a></td>
+              <td>MobileBoost</td>
+              <td>We are looking for a motivated Backend/Platform Engineer to join our remote team and help build the foundation of our AI-native QA solution. This is a unique opportunity to join before our Series A and have a major impact on a fast-moving product and team backed by Y Combinator (S21). About Us: We’re a Seed...</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://berlinstartupjobs.com/engineering/python-ai-senior-engineers-intermezzo-inc/">Python/AI Senior engineers</a></td>
+              <td>Intermezzo</td>
+              <td>Intermezzo is a California based startup. We are building a modern payroll platform. We are looking to expand in Germany and are looking for seasoned engineers. The key attributes we are looking for: 1. Cultural fit Own the outcome Curiosity and inquisitiveness Customer centric 2. Technology fit Python Experience Pydantic, langchain a plus API development...</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://berlinstartupjobs.com/engineering/ai-automation-engineer-m-f-x-tracks-fields/">AI &amp; Automation Engineer (m/f/x)</a></td>
+              <td>Tracks &amp; Fields</td>
+              <td>We are seeking a highly skilled AI and Automation Engineer to spearhead the development of our on-premise AI systems. This role involves testing cutting-edge AI models, and architecting an agent-based framework to optimize task management and execution. The ideal candidate will possess a blend of expertise in AI, systems engineering, and automation, with a focus...</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://berlinstartupjobs.com/engineering/principal-software-engineer-medical-imaging-m-f-d-deepspin-gmbh/">Principal Software Engineer- Medical Imaging (m/f/d)</a></td>
+              <td>DeepSpin</td>
+              <td>DeepSpin is a HealthTech startup pursuing the mission to make Magnetic Resonance Imaging universally accessible. Today 7 out of 10 people globally do not have access to this life-saving imaging modality. Through our cutting-edge technology we are going to change that. Backed by globally leading VCs, we are now expanding our world-class team. This is...</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/senior-software-engineer-full-stack-django-android-ai-fully-remote-dorbeleitconsulting/139621">Senior Software Engineer FullStack Django Android AI Fully Remote</a></td>
+              <td>dorbeleitconsulting</td>
+              <td>remote &amp; ai &amp; android &amp; mobile &amp; python</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/jr-mid-python-developer-accounting-team-b2c2/138510">JrMid Python Developer Accounting Team</a></td>
+              <td>B2c2</td>
+              <td>accounting &amp; dev &amp; junior &amp; entry level &amp; python</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/zigchain-blockchain-engineer-zigchain/139083">ZIGChain Blockchain Engineer</a></td>
+              <td>ZIGChain</td>
+              <td>engineer &amp; blockchain &amp; architecture &amp; cosmos &amp; python</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/quality-assurance-qa-blockchain-developer-for-zigchain-zigchain/139006">Quality Assurance QA Blockchain Developer ZIGCHAIN</a></td>
+              <td>ZIGChain</td>
+              <td>quality assurance &amp; dev &amp; blockchain &amp; blockchain engineer &amp; cosmos</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/metana">No title</a></td>
+              <td>No company</td>
+              <td></td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/algorithmic-forex-crypto-trader-gravity-team/138507">Algorithmic Forex Crypto Trader</a></td>
+              <td>Gravity Team</td>
+              <td>trader &amp; crypto &amp; python &amp; quantitative researcher &amp; quantitative trader</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/python-ai-engineer-sherlock/111330">Python AI Engineer</a></td>
+              <td>Sherlock</td>
+              <td>ai &amp; engineer &amp; python &amp; blockchain &amp; crypto</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/python-engineer-blockchain-team-wallet/133737">Python Engineer Blockchain team</a></td>
+              <td>Wallet</td>
+              <td>engineer &amp; python &amp; blockchain &amp; crypto &amp; ethereum</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/senior-software-engineer-python-asset-pricing-hedging-bitpanda/101436">Senior Software Engineer Python Asset Pricing Hedging</a></td>
+              <td>Bitpanda</td>
+              <td>engineer &amp; python &amp; senior &amp; dev &amp; aws</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/research-engineer-ml-rl-agents-affine-io/124332">Research Engineer — ML RL Agents</a></td>
+              <td>Affine.io</td>
+              <td>research &amp; engineer &amp; machine learning &amp; ai &amp; gaming</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/python-engineer-asset-pricing-hedging-bitpanda/103283">Python Engineer Asset Pricing Hedging</a></td>
+              <td>Bitpanda</td>
+              <td>engineer &amp; python &amp; aws &amp; blockchain &amp; crypto</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/backend-engineer-objective-labs/119349">Backend Engineer</a></td>
+              <td>Objective Labs</td>
+              <td>backend &amp; engineer &amp; blockchain &amp; crypto &amp; defi</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/senior-qa-engineer-exploratory-python-trading-tech-binance/116412">Senior QA Engineer Exploratory Python Trading Tech</a></td>
+              <td>Binance</td>
+              <td>engineer &amp; python &amp; quality assurance &amp; senior &amp; blockchain</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/senior-software-engineer-otc-desk-team-gravity-team/112387">Senior Software Engineer OTC Desk Team</a></td>
+              <td>Gravity Team</td>
+              <td>engineer &amp; senior &amp; dev &amp; blockchain &amp; crypto</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/contract-senior-backend-developer-python-themotleyfool/112026">Contract Senior Backend Developer Python</a></td>
+              <td>Themotleyfool</td>
+              <td>backend &amp; dev &amp; python &amp; senior &amp; aws</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/python-blockchain-developer-scionstaffing/111268">Python Blockchain Developer</a></td>
+              <td>Scion Staffing</td>
+              <td>dev &amp; python &amp; blockchain &amp; defi &amp; docker</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://weworkremotely.com/remote-jobs/makersite-senior-python-backend-engineer-m-f-x">Senior Python Backend Engineer (m/f/x)</a></td>
+              <td>Makersite</td>
+              <td>Full-Time</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://weworkremotely.com/remote-jobs/search-atlas-backend-engineer-python-django">Backend Engineer- Python/Django</a></td>
+              <td>Search Atlas</td>
+              <td>Full-Time &amp; $50,000 - $74,999 USD &amp; Anywhere in the World</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-3">Senior Backend Developer (Python)</a></td>
+              <td>Proxify AB</td>
+              <td>Top 100 &amp; Full-Time &amp; Anywhere in the World</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://weworkremotely.com/remote-jobs/search-atlas-lead-backend-engineer-python-django">Lead Backend Engineer (Python/Django)</a></td>
+              <td>Search Atlas</td>
+              <td>Full-Time &amp; $50,000 - $74,999 USD &amp; Anywhere in the World</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1">Senior Software Engineer - Backend/Python - USA Only (100% Remote)</a></td>
+              <td>Close</td>
+              <td>Top 100 &amp; Full-Time &amp; $100,000 or more USD &amp; Anywhere in the World</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://weworkremotely.com/remote-jobs/valory-ag-senior-python-engineer">Senior Python Engineer</a></td>
+              <td>Valory AG</td>
+              <td>Full-Time &amp; $100,000 or more USD &amp; Anywhere in the World</td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </figure>
+  </main>
+</body>
+</html>

@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Job Scrapper</title>
+  <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+>
+</head>
+<body>
+  <main class="container">
+    <h1>Search Results for java</h1>
+    <figure>
+      <table role="grid">
+        <thead>
+          <tr>
+            <th>Title</th>
+            <th>Company</th>
+            <th>Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          
+            <tr>
+              <td><a href="https://berlinstartupjobs.com/engineering/senior-web-engineer-tandem/">Senior Web Engineer</a></td>
+              <td>Tandem</td>
+              <td>Tandem is the leading global language learning community, where more than 30 million members from over 200 countries practice languages together. The concept of learning from each other is not only an integral part of the Tandem community but it is also at the heart of our everyday lives at Tandem. This shared connection through...</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/qa-support-engineer-trading-platform-crypto-com/139912">QA Support Engineer Trading Platm</a></td>
+              <td>Crypto.com</td>
+              <td>engineer &amp; quality assurance &amp; customer support &amp; crypto &amp; java</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/senior-web3-software-engineer-infstones/139858">Senior Web3 Software Engineer</a></td>
+              <td>InfStones</td>
+              <td>engineer &amp; senior &amp; dev &amp; blockchain &amp; defi</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/senior-blockchain-software-engineer-infstones/139857">Senior Blockchain Software Engineer</a></td>
+              <td>InfStones</td>
+              <td>engineer &amp; senior &amp; dev &amp; blockchain &amp; defi</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/senior-web3-engineer-infstones/139853">Senior Web3 Engineer</a></td>
+              <td>InfStones</td>
+              <td>engineer &amp; senior &amp; blockchain &amp; defi &amp; golang</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/metana">No title</a></td>
+              <td>No company</td>
+              <td></td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/backend-engieer-data-pipelines-avalor-zscaler/139842">Backend Engieer Data Pipelines Avalor</a></td>
+              <td>Zscaler</td>
+              <td>backend &amp; aws &amp; java &amp; remote</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/options-trader-digital-assets-remote-keyrock/139821">Options Trader Digital Assets Remote</a></td>
+              <td>Keyrock</td>
+              <td>remote &amp; finance &amp; non tech &amp; trader &amp; crypto</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/back-end-web3-development-leader-bitkernel/139704">BackEnd Web3 Development Leader</a></td>
+              <td>BitKernel</td>
+              <td>backend &amp; lead &amp; aws &amp; blockchain &amp; docker</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/full-stack-architect-for-crypto-agility-post-quantum-cryptography-pqc-syncreonconsulting/139618">FullStack Architect CryptoAgility PostQuantum Cryptography PQC</a></td>
+              <td>syncreonconsulting</td>
+              <td>cryptography &amp; architecture &amp; full stack &amp; crypto &amp; java</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/senior-manager-software-development-engineering-zscaler/139564">Senior Manager Software Development Engineering</a></td>
+              <td>Zscaler</td>
+              <td>senior &amp; dev &amp; aws &amp; java &amp; javascript</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/staff-site-reliability-engineer-staff-site-reliability-engineer-linux-network-troubleshooting-scripting-zscaler/139562">Staff Site Reliability Engineer Staff Site Reliability Engineer Linux Network troubleshooting Scripting</a></td>
+              <td>Zscaler</td>
+              <td>engineer &amp; linux &amp; reliability &amp; aws &amp; golang</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/staff-machine-learning-engineer-zscaler/103862">Staff Machine Learning Engineer</a></td>
+              <td>Zscaler</td>
+              <td>engineer &amp; machine learning &amp; ai &amp; aws &amp; docker</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/senior-staff-software-development-engineer-zscaler/106338">Senior Staff Software Development Engineer</a></td>
+              <td>Zscaler</td>
+              <td>engineer &amp; senior &amp; dev &amp; aws &amp; docker</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/principal-software-development-engineer-zscaler/99841">Principal Software Development Engineer</a></td>
+              <td>Zscaler</td>
+              <td>engineer &amp; executive &amp; dev &amp; aws &amp; docker</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/data-engineer-iii-zinnia/93917">Data Engineer III</a></td>
+              <td>Zinnia</td>
+              <td>data science &amp; engineer &amp; aws &amp; java &amp; remote</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/lead-solutions-engineer-inmobi/139510">Lead Solutions Engineer</a></td>
+              <td>Inmobi</td>
+              <td>engineer &amp; lead &amp; java &amp; javascript &amp; scala</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://weworkremotely.com/remote-jobs/lumenalta-javascript-fullstack-engineer-senior">Javascript Fullstack Engineer - Senior</a></td>
+              <td>Lumenalta</td>
+              <td>Top 100 &amp; Full-Time &amp; $50,000 - $74,999 USD &amp; Anywhere in the World</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://weworkremotely.com/remote-jobs/inovo-studios-full-stack-javascript-developer-shape-up-small-team-1">Full Stack Javascript Developer (Shape Up + Small team)</a></td>
+              <td>Inovo Studios</td>
+              <td>Contract &amp; Anywhere in the World</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://weworkremotely.com/remote-jobs/toptal-backend-java-developer">Backend Java Developer</a></td>
+              <td>Toptal</td>
+              <td>Featured &amp; Top 100 &amp; Full-Time &amp; $100,000 or more USD &amp; Anywhere in the World</td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </figure>
+  </main>
+</body>
+</html>

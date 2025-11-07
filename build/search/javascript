@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Job Scrapper</title>
+  <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+>
+</head>
+<body>
+  <main class="container">
+    <h1>Search Results for javascript</h1>
+    <figure>
+      <table role="grid">
+        <thead>
+          <tr>
+            <th>Title</th>
+            <th>Company</th>
+            <th>Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          
+            <tr>
+              <td><a href="https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/">Senior Fullstack Developer (Typescript / Javascript / Node.js)</a></td>
+              <td>DATATRONiQ</td>
+              <td>🚀 DATATRONiQ is a deep-tech 💪 startup for the Industrial IoT in Germany. Our platform offers a one-stop solution for manufacturing companies to monitor and optimize their machines and processes. Our device management and data acquisition technology generates high-quality data for our AI models deployed on the edge. We value collaboration, honest feedback, and continuous...</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/">Senior Go Backend Developer</a></td>
+              <td>DATATRONiQ</td>
+              <td>🚀 DATATRONiQ is a deep-tech 💪 startup for the Industrial IoT in Germany. Our platform offers a one-stop solution for manufacturing companies to monitor and optimize their machines and processes. Our device management and data acquisition technology generates high-quality data for our AI models deployed on the edge. We value collaboration, honest feedback, and continuous...</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://berlinstartupjobs.com/engineering/e-commerce-tech-specialist-m-w-d-wein-vinos-gmbh/">E-Commerce Tech Specialist (m/w/d)</a></td>
+              <td>VINOS</td>
+              <td>VINOS steht für die Welt der spanischen Weine. Wein ist für uns mehr als ein Produkt – Wein ist für uns Leidenschaft und das seit über 25 Jahren. Im Bereich E-Commerce und in unseren Filialen in Berlin, Hamburg, München und Köln haben wir uns mit unserer Expertise, unserem exzellenten Service und der Leidenschaft für Wein...</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://berlinstartupjobs.com/engineering/full-stack-engineer-ts-react-node-feather/">Full-stack engineer (TS, React, Node)</a></td>
+              <td>Feather</td>
+              <td>About the role At Feather, we are making insurance honest, transparent, and simple. We do this by building products that are easy to use and understand, and they are being used by thousands of happy customers every day. We are looking for a full-stack engineer to join our product team. In this role, you’ll be...</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/senior-infrastructure-engineer-core-systems-quicknode/139908">Senior Infrastructure Engineer Core Systems</a></td>
+              <td>QuickNode</td>
+              <td>infrastructure &amp; engineer &amp; senior &amp; blockchain &amp; docker</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/staff-blockchain-security-engineer-niftygatewaystudio/139875">Staff Blockchain Security Engineer</a></td>
+              <td>Nifty Gateway Studio</td>
+              <td>engineer &amp; security &amp; blockchain &amp; crypto &amp; defi</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/senior-web3-software-engineer-infstones/139858">Senior Web3 Software Engineer</a></td>
+              <td>InfStones</td>
+              <td>engineer &amp; senior &amp; dev &amp; blockchain &amp; defi</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/senior-blockchain-software-engineer-infstones/139857">Senior Blockchain Software Engineer</a></td>
+              <td>InfStones</td>
+              <td>engineer &amp; senior &amp; dev &amp; blockchain &amp; defi</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/metana">No title</a></td>
+              <td>No company</td>
+              <td></td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/senior-web3-engineer-infstones/139853">Senior Web3 Engineer</a></td>
+              <td>InfStones</td>
+              <td>engineer &amp; senior &amp; blockchain &amp; defi &amp; golang</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/senior-frontend-developer-opentag/139852">Senior FrontEnd Developer</a></td>
+              <td>OpenTag</td>
+              <td>dev &amp; front end &amp; senior &amp; javascript &amp; nextjs</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/cms-developer-bitgo/133016">CMS Developer</a></td>
+              <td>Bitgo</td>
+              <td>dev &amp; bitcoin &amp; blockchain &amp; javascript &amp; nextjs</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/frontend-engineer-e3-bitgo/139800">Frontend Engineer E3</a></td>
+              <td>Bitgo</td>
+              <td>engineer &amp; front end &amp; bitcoin &amp; blockchain &amp; javascript</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/senior-blockchain-security-engineer-niftygatewaystudio/139783">Senior Blockchain Security Engineer</a></td>
+              <td>Nifty Gateway Studio</td>
+              <td>engineer &amp; security &amp; senior &amp; blockchain &amp; crypto</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/react-native-engineer-nyc-or-lnd-x4-mlabs/139771">React Native Engineer NYC or LND x4</a></td>
+              <td>MLabs</td>
+              <td>engineer &amp; react native &amp; mobile &amp; javascript &amp; react</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/full-stack-developer-front-end-leaning-winnables/105877">Full Stack Developer Front End Leaning</a></td>
+              <td>Winnables</td>
+              <td>dev &amp; front end &amp; full stack &amp; remote &amp; blockchain</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/smart-contract-developer-atlassearch/139702">Smart Contract Developer</a></td>
+              <td>Atlas Search</td>
+              <td>dev &amp; ethereum &amp; blockchain &amp; hardhat &amp; javascript</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/developer-relations-nyc-mlabs/139700">Developer Relations NYC</a></td>
+              <td>MLabs</td>
+              <td>developer relations &amp; dev &amp; blockchain &amp; crypto &amp; discord</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/software-engineer-backend-typescript-js-1inch/139682">Software Engineer Backend TypeScript.JS</a></td>
+              <td>1inch</td>
+              <td>typescript &amp; javascript &amp; backend &amp; engineer &amp; dev</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://web3.career/fullstack-engineer-node-react-crypto-web3-g2iinc/139665">FullStack Engineer Node React Crypto Web3</a></td>
+              <td>G2i Inc.</td>
+              <td>engineer &amp; full stack &amp; javascript &amp; node &amp; react</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://weworkremotely.com/remote-jobs/lumenalta-javascript-fullstack-engineer-senior">Javascript Fullstack Engineer - Senior</a></td>
+              <td>Lumenalta</td>
+              <td>Top 100 &amp; Full-Time &amp; $50,000 - $74,999 USD &amp; Anywhere in the World</td>
+            </tr>
+          
+            <tr>
+              <td><a href="https://weworkremotely.com/remote-jobs/inovo-studios-full-stack-javascript-developer-shape-up-small-team-1">Full Stack Javascript Developer (Shape Up + Small team)</a></td>
+              <td>Inovo Studios</td>
+              <td>Contract &amp; Anywhere in the World</td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </figure>
+  </main>
+</body>
+</html>
