@@ -26,9 +26,8 @@
           {% for job in jobs %}
             <tr>
               <td><a href="{{ job.link }}">{{ job.title }}</a></td>
-              <td>{{ job.company_name }}</td>
-              <td>{{ job.required_experience }}</td>
-              <td>{{ job.reward }}</td>
+              <td>{{ job.company }}</td>
+              <td>{{ job.description }}</td>
             </tr>
           {% endfor %}
         </tbody>
