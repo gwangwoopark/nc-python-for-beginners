@@ -1,7 +1,7 @@
 from flask import Flask, redirect, render_template, request, url_for
 from scraper import scrape_all_jobs
 
-app = Flask("JobScrapper")
+app = Flask("__name__")
 
 
 @app.route("/")
